@@ -1,0 +1,8 @@
+C:\Users\mertk\source\repos\SpotifyGenerator\SpotifyGenerator\bin\Debug\SpotifyGenerator.exe.config
+C:\Users\mertk\source\repos\SpotifyGenerator\SpotifyGenerator\bin\Debug\SpotifyGenerator.exe
+C:\Users\mertk\source\repos\SpotifyGenerator\SpotifyGenerator\bin\Debug\SpotifyGenerator.pdb
+C:\Users\mertk\source\repos\SpotifyGenerator\SpotifyGenerator\obj\Debug\SpotifyGenerator.csproj.AssemblyReference.cache
+C:\Users\mertk\source\repos\SpotifyGenerator\SpotifyGenerator\obj\Debug\SpotifyGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertk\source\repos\SpotifyGenerator\SpotifyGenerator\obj\Debug\SpotifyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mertk\source\repos\SpotifyGenerator\SpotifyGenerator\obj\Debug\SpotifyGenerator.exe
+C:\Users\mertk\source\repos\SpotifyGenerator\SpotifyGenerator\obj\Debug\SpotifyGenerator.pdb
